@@ -1,0 +1,115 @@
+[29-Aug-2025 16:33:02 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[29-Aug-2025 16:33:02 Asia/Colombo] Total unused tracking numbers found: 7
+[29-Aug-2025 16:37:38 Asia/Colombo] Looking for tracking numbers with courier_id: 11
+[29-Aug-2025 16:37:38 Asia/Colombo] Total unused tracking numbers found: 0
+[29-Aug-2025 16:37:54 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[29-Aug-2025 16:37:54 Asia/Colombo] Total unused tracking numbers found: 5
+[01-Sep-2025 09:05:52 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[01-Sep-2025 09:05:52 Asia/Colombo] Total unused tracking numbers found: 5
+[01-Sep-2025 09:06:03 Asia/Colombo] Looking for tracking numbers with courier_id: 11
+[01-Sep-2025 09:06:03 Asia/Colombo] Total unused tracking numbers found: 0
+[02-Sep-2025 15:56:18 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[02-Sep-2025 15:56:18 Asia/Colombo] Total unused tracking numbers found: 5
+[03-Sep-2025 22:15:18 Asia/Colombo] DEBUG - POST city_id: NOT_SET
+[03-Sep-2025 22:15:18 Asia/Colombo] DEBUG - Processed city_id: NULL
+[03-Sep-2025 22:15:18 Asia/Colombo] DEBUG - Final city_id after customer processing: 1
+[03-Sep-2025 22:15:18 Asia/Colombo] DEBUG - Customer ID: 53
+[03-Sep-2025 22:15:20 Asia/Colombo] Koombiyo API Success: Order 867 dispatched with tracking 456107513
+[08-Sep-2025 09:56:06 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[08-Sep-2025 09:56:06 Asia/Colombo] Total unused tracking numbers found: 19
+[08-Sep-2025 10:29:15 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[08-Sep-2025 10:29:15 Asia/Colombo] Total unused tracking numbers found: 15
+[08-Sep-2025 10:29:25 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[08-Sep-2025 10:29:25 Asia/Colombo] Total unused tracking numbers found: 15
+[08-Sep-2025 10:39:29 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[08-Sep-2025 10:39:29 Asia/Colombo] Total unused tracking numbers found: 12
+[08-Sep-2025 11:27:00 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[08-Sep-2025 11:27:00 Asia/Colombo] Total unused tracking numbers found: 12
+[08-Sep-2025 13:21:34 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[08-Sep-2025 13:21:34 Asia/Colombo] Total unused tracking numbers found: 12
+[08-Sep-2025 13:26:20 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[08-Sep-2025 13:26:20 Asia/Colombo] Total unused tracking numbers found: 11
+[08-Sep-2025 13:26:43 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[08-Sep-2025 13:26:43 Asia/Colombo] Total unused tracking numbers found: 10
+[08-Sep-2025 13:27:36 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[08-Sep-2025 13:27:36 Asia/Colombo] Total unused tracking numbers found: 10
+[08-Sep-2025 13:35:56 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[08-Sep-2025 13:35:56 Asia/Colombo] Total unused tracking numbers found: 8
+[08-Sep-2025 13:37:33 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[08-Sep-2025 13:37:33 Asia/Colombo] Total unused tracking numbers found: 8
+[08-Sep-2025 13:38:33 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[08-Sep-2025 13:38:33 Asia/Colombo] Total unused tracking numbers found: 8
+[08-Sep-2025 13:40:16 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[08-Sep-2025 13:40:16 Asia/Colombo] Total unused tracking numbers found: 8
+[08-Sep-2025 13:41:12 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[08-Sep-2025 13:41:12 Asia/Colombo] Total unused tracking numbers found: 8
+[08-Sep-2025 13:41:24 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[08-Sep-2025 13:41:24 Asia/Colombo] Total unused tracking numbers found: 8
+[08-Sep-2025 13:41:40 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[08-Sep-2025 13:41:40 Asia/Colombo] Total unused tracking numbers found: 5
+[08-Sep-2025 14:35:42 Asia/Colombo] Looking for tracking numbers with courier_id: 11
+[08-Sep-2025 14:35:42 Asia/Colombo] Total unused tracking numbers found: 0
+[08-Sep-2025 14:47:57 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[08-Sep-2025 14:47:57 Asia/Colombo] Total unused tracking numbers found: 4
+[08-Sep-2025 14:48:41 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[08-Sep-2025 14:48:41 Asia/Colombo] Total unused tracking numbers found: 4
+[08-Sep-2025 14:48:56 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[08-Sep-2025 14:48:56 Asia/Colombo] Total unused tracking numbers found: 4
+[08-Sep-2025 14:49:31 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[08-Sep-2025 14:49:31 Asia/Colombo] Total unused tracking numbers found: 4
+[08-Sep-2025 14:58:58 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[08-Sep-2025 14:58:58 Asia/Colombo] Total unused tracking numbers found: 4
+[08-Sep-2025 15:14:23 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[08-Sep-2025 15:14:23 Asia/Colombo] Total unused tracking numbers found: 4
+[08-Sep-2025 15:14:58 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[08-Sep-2025 15:14:58 Asia/Colombo] Total unused tracking numbers found: 3
+[08-Sep-2025 15:15:08 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[08-Sep-2025 15:15:08 Asia/Colombo] Total unused tracking numbers found: 3
+[08-Sep-2025 15:16:15 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[08-Sep-2025 15:16:15 Asia/Colombo] Total unused tracking numbers found: 3
+[08-Sep-2025 15:17:45 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[08-Sep-2025 15:17:45 Asia/Colombo] Total unused tracking numbers found: 3
+[08-Sep-2025 15:17:54 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[08-Sep-2025 15:17:54 Asia/Colombo] Total unused tracking numbers found: 3
+[08-Sep-2025 15:25:32 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[08-Sep-2025 15:25:32 Asia/Colombo] Total unused tracking numbers found: 3
+[08-Sep-2025 16:40:11 Asia/Colombo] Looking for tracking numbers with courier_id: 11
+[08-Sep-2025 16:40:11 Asia/Colombo] Total unused tracking numbers found: 0
+[08-Sep-2025 16:43:16 Asia/Colombo] Looking for tracking numbers with courier_id: 11
+[08-Sep-2025 16:43:16 Asia/Colombo] Total unused tracking numbers found: 10
+[08-Sep-2025 16:43:30 Asia/Colombo] Looking for tracking numbers with courier_id: 11
+[08-Sep-2025 16:43:30 Asia/Colombo] Total unused tracking numbers found: 10
+[08-Sep-2025 16:46:07 Asia/Colombo] Looking for tracking numbers with courier_id: 11
+[08-Sep-2025 16:46:07 Asia/Colombo] Total unused tracking numbers found: 11
+[09-Sep-2025 08:52:08 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[09-Sep-2025 08:52:08 Asia/Colombo] Total unused tracking numbers found: 2
+[09-Sep-2025 08:53:22 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[09-Sep-2025 08:53:22 Asia/Colombo] Total unused tracking numbers found: 2
+[09-Sep-2025 15:20:05 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[09-Sep-2025 15:20:05 Asia/Colombo] Total unused tracking numbers found: 2
+[09-Sep-2025 15:20:18 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[09-Sep-2025 15:20:18 Asia/Colombo] Total unused tracking numbers found: 2
+[09-Sep-2025 15:20:26 Asia/Colombo] Looking for tracking numbers with courier_id: 12
+[09-Sep-2025 15:20:26 Asia/Colombo] Total unused tracking numbers found: 2
+[13-Sep-2025 11:06:46 Asia/Colombo] DEBUG - POST city_id: 1
+[13-Sep-2025 11:06:46 Asia/Colombo] DEBUG - Processed city_id: 1
+[13-Sep-2025 11:06:46 Asia/Colombo] DEBUG - Final city_id after customer processing: 1
+[13-Sep-2025 11:06:46 Asia/Colombo] DEBUG - Customer ID: 279
+[13-Sep-2025 11:08:53 Asia/Colombo] DEBUG - POST city_id: NOT_SET
+[13-Sep-2025 11:08:53 Asia/Colombo] DEBUG - Processed city_id: NULL
+[13-Sep-2025 11:08:53 Asia/Colombo] DEBUG - Final city_id after customer processing: 31
+[13-Sep-2025 11:08:53 Asia/Colombo] DEBUG - Customer ID: 4
+[13-Sep-2025 11:08:53 Asia/Colombo] DEBUG - About to process city for FDE New API - city_id: 31
+[13-Sep-2025 11:08:53 Asia/Colombo] DEBUG - City found: Anuradhapura
+[13-Sep-2025 11:11:38 Asia/Colombo] DEBUG - POST city_id: 1
+[13-Sep-2025 11:11:38 Asia/Colombo] DEBUG - Processed city_id: 1
+[13-Sep-2025 11:11:38 Asia/Colombo] DEBUG - Final city_id after customer processing: 1
+[13-Sep-2025 11:11:38 Asia/Colombo] DEBUG - Customer ID: 280
+[13-Sep-2025 11:11:38 Asia/Colombo] DEBUG - About to process city for FDE New API - city_id: 1
+[13-Sep-2025 11:11:38 Asia/Colombo] DEBUG - City found: Colombo
+[15-Sep-2025 08:39:46 Asia/Colombo] DEBUG - POST city_id: NOT_SET
+[15-Sep-2025 08:39:46 Asia/Colombo] DEBUG - Processed city_id: NULL
+[15-Sep-2025 08:39:46 Asia/Colombo] DEBUG - Final city_id after customer processing: 1
+[15-Sep-2025 08:39:46 Asia/Colombo] DEBUG - Customer ID: 53
+[15-Sep-2025 08:39:46 Asia/Colombo] DEBUG - About to process city for FDE New API - city_id: 1
+[15-Sep-2025 08:39:46 Asia/Colombo] DEBUG - City found: Colombo

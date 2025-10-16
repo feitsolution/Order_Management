@@ -1,0 +1,260 @@
+[13-Sep-2025 10:57:32 Asia/Colombo] Sidebar Logo Error: Database connection not available
+[14-Sep-2025 20:04:21 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/register.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:04:22 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/register.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:04:25 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/register.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:05:08 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:05:10 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:06:20 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:06:31 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:06:35 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:06:36 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:06:36 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:06:38 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:07:17 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:07:21 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:07:42 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:31:13 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:32:10 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:32:11 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:32:11 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:32:16 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:32:18 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:34:21 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:34:22 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:34:24 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:34:33 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:34:33 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:34:34 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:34:41 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:35:04 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:35:11 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:35:16 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:35:43 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:35:49 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:35:53 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:36:38 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:37:06 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:38:30 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:42:17 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:43:36 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:45:09 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:46:30 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 20:59:53 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[14-Sep-2025 21:00:32 Asia/Colombo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php:8
+Stack trace:
+#0 /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php(8): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'order_managemen...')
+#1 /home1/imwijqte/public_html/order_management/dist/pages/login.php(5): include('/home1/imwijqte...')
+#2 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/connection/db_connection.php on line 8
+[15-Sep-2025 07:07:09 Asia/Colombo] PHP Warning:  Undefined variable $conn in /home1/imwijqte/public_html/order_management/dist/pages/login.php on line 8
+[15-Sep-2025 07:07:09 Asia/Colombo] PHP Warning:  Attempt to read property "connect_error" on null in /home1/imwijqte/public_html/order_management/dist/pages/login.php on line 8
+[15-Sep-2025 07:07:09 Asia/Colombo] PHP Warning:  Undefined variable $conn in /home1/imwijqte/public_html/order_management/dist/pages/login.php on line 18
+[15-Sep-2025 07:07:09 Asia/Colombo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/imwijqte/public_html/order_management/dist/pages/login.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/imwijqte/public_html/order_management/dist/pages/login.php on line 18

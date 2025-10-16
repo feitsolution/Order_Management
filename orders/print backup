@@ -1,0 +1,69 @@
+<!-- 1. ADD THIS BUTTON IN THE ACTIONS COLUMN (around line 345) -->
+<!-- Replace the existing action button section with this: -->
+
+<!-- Action Buttons -->
+<td class="actions">
+    <button class="action-btn view-btn" title="View Order Details" 
+            onclick="openOrderModal('<?php echo isset($row['order_id']) ? htmlspecialchars($row['order_id']) : ''; ?>', '<?php echo isset($row['interface']) ? htmlspecialchars($row['interface']) : ''; ?>')">
+        <i class="fas fa-eye"></i>
+    </button>
+    
+    <!-- NEW PRINT BUTTON -->
+    <button class="action-btn print-btn" title="Print Order" 
+            onclick="printOrder('<?php echo isset($row['order_id']) ? htmlspecialchars($row['order_id']) : ''; ?>')">
+        <i class="fas fa-print"></i>
+    </button>
+</td>
+
+<!-- 2. ADD THIS CSS STYLE (add after line 146 where other stylesheets are included) -->
+<style>
+.print-btn {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 8px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    margin-left: 5px;
+    transition: background-color 0.3s;
+}
+
+.print-btn:hover {
+    background-color: #218838;
+}
+
+.print-btn:active {
+    transform: scale(0.95);
+}
+
+.actions {
+    white-space: nowrap;
+}
+</style>
+
+<!-- 3. ADD THIS JAVASCRIPT FUNCTION (add after line 550, inside the existing <script> tag) -->
+<script>
+// ADD THIS FUNCTION TO THE EXISTING JAVASCRIPT SECTION
+
+// Print order function
+function printOrder(orderId) {
+    if (!orderId || orderId.trim() === '') {
+        alert('Order ID is required to print order.');
+        return;
+    }
+    
+    console.log('Printing Order ID:', orderId);
+    
+    // Construct the print URL
+    const printUrl = 'download_order_print.php?id=' + encodeURIComponent(orderId.trim());
+    
+    // Open print page in new window
+    const printWindow = window.open(printUrl, '_blank');
+    
+    // Optional: Auto-print when page loads (uncomment if needed)
+    // printWindow.onload = function() {
+    //     printWindow.print();
+    // };
+}
+</script>
