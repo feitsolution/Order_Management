@@ -93,7 +93,7 @@
                 <button type="button" class="modal-btn modal-btn-secondary" onclick="closeApiDispatchModal()" 
                         style="display: inline-flex !important; padding: 8px 16px; background: #6c757d !important; color: white !important; border: none; border-radius: 4px; margin-right: 10px;">
                     <i class="fas fa-times me-1"></i>Cancel
-                </button>
+                </button><br>
                 <button type="submit" class="modal-btn modal-btn-primary" id="api-dispatch-submit-btn" disabled
                         style="display: inline-flex !important; padding: 8px 16px; background: #007bff !important; color: white !important; border: none; border-radius: 4px;">
                     <i class="fas fa-cloud-upload-alt me-1"></i>Confirm API Dispatch
